@@ -1,0 +1,23 @@
+#Covid-19
+This Web page is about covid-19
+
+#Languages used
+   HTML
+   CSS
+   JS
+
+
+#About Web Page
+It contains a nav bar 
+This web page contains information about covid-19
+All the news about covid-19
+precautions to  be taken
+
+This web page is desinged and written by me 
+since I only know basics of JS I am unable to impliment it but will learn it soon
+
+
+
+Created by-Mukul Mohmare
+Enrollment no. - IIT2019226
+Github username - Mu-C00L 
